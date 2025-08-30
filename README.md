@@ -9,9 +9,9 @@ This repo documents my progress, notes, and projects.
 ## 📅 Daily Checklist  
 
 ### Week 1 – Foundations  
-- [ ] Day 1: Variables & data types  
-- [ ] Day 2: String & number methods (BMI calculator)  
-- [ ] Day 3: Conditionals (`if`, `else`, `switch`)  
+- [x] Day 1: Variables & data types  
+- [x] Day 2: String & number methods (BMI calculator)  
+- [x] Day 3: Conditionals (`if`, `else`, `switch`)  
 - [ ] Day 4: Loops (FizzBuzz)  
 - [ ] Day 5: Functions (declarations, arrow functions)  
 - [ ] Day 6: Scope & closures (calculator functions)  
