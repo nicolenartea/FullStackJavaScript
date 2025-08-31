@@ -1,7 +1,7 @@
 # 🚀 30 Days of JavaScript  
 *(Inspired by The Odin Project)*  
 
-I’m committing to learn **JavaScript in 30 days**.  
+I’m committing to re-learn **JavaScript in 30 days**.  
 This repo documents my progress, notes, and projects.  
 
 ---
