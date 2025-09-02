@@ -18,7 +18,7 @@ This repo documents my progress, notes, and projects.
 - [x] Day 7: 🎮 Project: Rock Paper Scissors – Console  
 
 ### Week 2 – Arrays, Objects & DOM  
-- [ ] Day 8–9: Arrays & methods  
+- [x] Day 8–9: Arrays & methods  
 - [ ] Day 10–11: Objects, `this`, destructuring  
 - [ ] Day 12–13: DOM basics, event listeners  
 - [ ] Day 14: 🎮 Project: Rock Paper Scissors – UI  
