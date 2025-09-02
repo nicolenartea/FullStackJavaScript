@@ -1,4 +1,4 @@
-name: Update Progress Badge
+name: Update Progress Badge ✨
 
 on:
   push:
@@ -26,13 +26,17 @@ jobs:
 
       - name: Update Badge
         run: |
-          badge="![Progress](https://img.shields.io/badge/Progress-${percent}%25-brightgreen?style=for-the-badge)"
-          sed -i "s|!\[Progress\](.*)|$badge|" README.md
+          badge="![Progress](https://img.shields.io/badge/Progress-${{ env.percent }}%25-brightgreen?style=for-the-badge)"
+          if grep -q "!\[Progress\]" README.md; then
+            sed -i "s|!\[Progress\](.*)|$badge|g" README.md
+          else
+            echo -e "$badge\n\n$(cat README.md)" > README.md
+          fi
 
       - name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "chore: update progress badge to ${percent}%"
+          git commit -m "chore: update progress badge to ${{ env.percent }}%" || echo "No changes to commit"
           git push
