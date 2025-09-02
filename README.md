@@ -15,10 +15,10 @@ This repo documents my progress, notes, and projects.
 - [x] Day 4: Loops (FizzBuzz)  
 - [x] Day 5: Functions (declarations, arrow functions)  
 - [x] Day 6: Scope & closures (calculator functions)  
-- [x] Day 7: 🎮 Project: Rock Paper Scissors – Console  
+- [] Day 7: 🎮 Project: Rock Paper Scissors – Console  
 
 ### Week 2 – Arrays, Objects & DOM  
-- [x] Day 8–9: Arrays & methods  
+- [] Day 8–9: Arrays & methods  
 - [ ] Day 10–11: Objects, `this`, destructuring  
 - [ ] Day 12–13: DOM basics, event listeners  
 - [ ] Day 14: 🎮 Project: Rock Paper Scissors – UI  
