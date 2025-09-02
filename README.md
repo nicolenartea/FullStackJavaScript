@@ -59,9 +59,6 @@ By the end of this journey, I’ll have:
 - A **GitHub showcase** of my learning 🚀  
 
 ---
-
-<<<<<<< HEAD
-![Progress](https://img.shields.io/badge/Progress-33%25-brightgreen?style=for-the-badge)
 =======
 ![Progress](https://img.shields.io/badge/Progress-33%25-brightgreen?style=for-the-badge)
->>>>>>> parent of afc52ad (chore: update progress badge to 35%)
+
