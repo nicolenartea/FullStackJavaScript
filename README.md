@@ -59,6 +59,5 @@ By the end of this journey, I’ll have:
 - A **GitHub showcase** of my learning 🚀  
 
 ---
-=======
 ![Progress](https://img.shields.io/badge/Progress-30%25-brightgreen?style=for-the-badge)
 
