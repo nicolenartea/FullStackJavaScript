@@ -60,4 +60,4 @@ By the end of this journey, I’ll have:
 
 ---
 
-![Progress](https://img.shields.io/badge/Progress-15%25-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-30%25-brightgreen?style=for-the-badge)
