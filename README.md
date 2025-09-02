@@ -63,5 +63,5 @@ By the end of this journey, I’ll have:
 <<<<<<< HEAD
 ![Progress](https://img.shields.io/badge/Progress-40%25-brightgreen?style=for-the-badge)
 =======
-![Progress](https://img.shields.io/badge/Progress-30%25-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-40%25-brightgreen?style=for-the-badge)
 >>>>>>> parent of afc52ad (chore: update progress badge to 35%)
